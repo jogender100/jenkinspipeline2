@@ -8,6 +8,6 @@
 </head>
 <body>
 <%= "This is 2nd Test Program for Jenkins pipleline" %>
-<%= "This is with GitHook" %>
+<%= "This is with GitHook-test" %>
 </body>
 </html>
